@@ -40,3 +40,5 @@ resetBtn.addEventListener("click", () => {
   document.querySelector("#score").textContent = score;
   document.querySelector("#secret-number").textContent = ranRun;
 });
+
+//Testing push functonality
