@@ -42,5 +42,4 @@ resetBtn.addEventListener("click", () => {
 });
 
 //Testing push functonality
-
-//Pusing changes to testing branch
+// Testing git push origin (branch name)
